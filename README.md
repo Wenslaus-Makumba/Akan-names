@@ -7,6 +7,8 @@ A website that takes a user's birthday and calculates the day of the week they w
       
 ##Requirements
  JavaScript Console
+
+
 ##Behaviour Driven Development
     1. Displays Form For Entering Date and Gender
         ◦ INPUT: "User's Birthdate Entered"
