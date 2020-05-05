@@ -26,11 +26,6 @@ span.heading-name {
 .ghanaian-names h4, .akan-form h5 {
     color: red;
 }
-
-.rdio input[type="radio"]:checked + label::after {
-    background-color: red;
-}
-
 .text-right {
     text-align: right;
 }
